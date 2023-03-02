@@ -1,6 +1,6 @@
 # ESP32-Sparrow-rev2
 
-<img src="https://github.com/dantudose/ESP32-Sparrow-rev2/blob/main/Images/esp32_sparrow_rev2.png" height="600"/>
+<img src="https://github.com/dantudose/ESP32-Sparrow-rev2/blob/main/Images/esp32_sparrow_rev2.png" height="550"/>
 
 The ESP32 Sparrow is a development board supporting the ESP32-WROVER module. It is fully Arduino-compatible and it comes with the following features:
 * BME680 temperature, humidity, pressure and air quality sensor
