@@ -13,7 +13,7 @@ The ESP32 Sparrow is a development board supporting the ESP32-WROVER module. It 
 * Expansion headers
 * USB charging/programming and data interface
 
-<img src="https://github.com/dantudose/ESP32-Sparrow-rev2/blob/main/Images/ESP32_Sparrow_rev2_small.png" height="300"/>
+<img src="https://github.com/dantudose/ESP32-Sparrow-rev2/blob/main/Images/ESP32_Sparrow_rev2_small.png" height="300" align="center"/>
 
 Repository Contents
 -------------------
