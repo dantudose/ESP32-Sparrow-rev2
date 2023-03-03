@@ -4,7 +4,7 @@
 
 The ESP32 Sparrow is a development board supporting the ESP32-WROVER module. It is fully Arduino-compatible and it comes with the following features:
 * BME680 temperature, humidity, pressure and air quality sensor
-* LTR303 ambient light sensor/luxmeter
+* LTR308 ambient light sensor/luxmeter
 * 128x32 SSD1306 OLED
 * RGB LED
 * I2S Microphone
